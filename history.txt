@@ -1,0 +1,109 @@
+    1  2 + 2
+    2  quit
+    3  pwd
+    4  ls
+    5  cd Desktop
+    6  cd Documents
+    7  ls
+    8  cd My Pictures
+    9  cd
+   10  cd documents
+   11  ls
+   12  ..
+   13  cd ..
+   14  ls
+   15  cd OneDrive
+   16  ls
+   17  cd Documents
+   18  ls
+   19  ls -lh
+   20  history
+   21  git
+   22  cd OneDrive
+   23  cd ..
+   24  Documents
+   25  cd Documents
+   26  cd ls
+   27  ls
+   28  cd College
+   29  cd 4th\ Year\ \(2023-2024\)/
+   30  cd Fall\ Term/
+   31  cd DCI\ 295D-Digital\ Editions/
+   32  cd Coding\ Assignments/
+   33  ls
+   34  cd coding_assignment_1/
+   35  git init
+   36  git status
+   37  git add
+   38  git add .
+   39  git commit
+   40  cd OneDrive/
+   41  cd Documents/College/4th\ Year\ \(2023-2024\)/Fall\ Term/DCI\ 295D-Digital\ Editions/Coding\ Assignments/coding_assignment_1/
+   42  git commit -m 'initial'
+   43  git remote add origin https://github.com/kachalker/gitpractice.git
+   44  git branch -M main
+   45  git push -u origin main
+   46  history
+   47  pwd
+   48  ls
+   49  man ls
+   50  q
+   51  man pwd
+   52  pwd
+   53  ls
+   54  help
+   55  help pwd
+   56  ls *.txt
+   57  ls -l
+   58  ls -lh
+   59  cd desktop
+   60  cd OneDrive
+   61  cd desktop
+   62  pwd
+   63  ls
+   64  cd ..
+   65  cd --
+   66  cd OneDrive/
+   67  cd Documents/
+   68  explorer .
+   69  cd College/4th\ Year\ \(2023-2024\)/Fall\ Term/DCI\ 295D-Digital\ Editions/Coding\ Assignments/
+   70  mkdir Coding Assignment 3
+   71  mkdir Coding-Assignment-3
+   72  cd Coding-Assignment-3/
+   73  cd ..
+   74  cd Coding-Assignment-3/
+   75  wget http://www.gutenberg.org/files/2600/2600-0.txt
+   76  wget
+   77  ls -lh
+   78  open War\ and\ Peace.txt 
+   79  explorer War\ and\ Peace.txt 
+   80  cat War\ and\ Peace.txt 
+   81  head War\ and\ Peace.txt 
+   82  tail War\ and\ Peace.txt 
+   83  head -20 War\ and\ Peace.txt 
+   84  mv War\ and\ Peace.txt WarAndPeace.txt
+   85  ls
+   86  cp WarAndPeace.txt Duplicate
+   87  cat WarAndPeace.txt Duplicate 
+   88  cat WarAndPeace.txt Duplicate > double.txt
+   89  ls
+   90  cat *.txt > everything.txt
+   91  vim WarAndPeace.txt 
+   92  cp WarAndPeace.txt war-backup.txt
+   93  ls
+   94  cd ..
+   95  mkdir proghist-det
+   96  cp /OneDrive/Documents/College/4th Year (2023-2024)/Fall Term/DCI 295D-Digital Editions/Coding Assignments/WarAndPeace.txt /OneDrive/Documents/College/4th Year (2023-2024)/Fall Term/DCI 295D-Digital Editions/proghist-det
+   97   
+   98  rm WarAndPeace.txt
+   99  cd Coding-Assignment-3/
+  100  rm WarAndPeace.txt 
+  101  ls
+  102  .. cd
+  103  cd ..
+  104  rm -r Coding-Assignment-3/
+  105  exit
+  106  history > history.txt
+  107  rm history.txt 
+  108  cd OneDrive/Documents/College/4th\ Year\ \(2023-2024\)/Fall\ Term/DCI\ 295D-Digital\ Editions/Coding\ Assignments/
+  109  history > history.txt
